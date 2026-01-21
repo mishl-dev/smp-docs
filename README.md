@@ -30,6 +30,10 @@ bun run build
 
 ### Core Plugins
 - **HuskHomes** - Home and warping system
+- **Ultimate Teams** - Teams/clans system with shared resources
+
+### Voice Chat
+- **Simple Voice Chat** - Proximity-based voice communication
 
 ### Bukkit Plugins
 - **AxShulkers** - Enhanced shulker box functionality

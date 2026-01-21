@@ -27,6 +27,18 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Teams',
+					items: [
+						{ label: 'Ultimate Teams', slug: 'plugins/ultimateteams' },
+					],
+				},
+				{
+					label: 'Voice Chat',
+					items: [
+						{ label: 'Simple Voice Chat', slug: 'plugins/simplevoicechat' },
+					],
+				},
+				{
 					label: 'Bukkit Plugins',
 					items: [
 						{ label: 'AxShulkers', slug: 'plugins/axshulkers' },
