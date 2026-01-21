@@ -1,7 +1,6 @@
 ---
-title: "ProtocolLib"
-description: "Library plugin for other plugins"
-icon: "gear"
+title: ProtocolLib
+description: Library plugin for other plugins
 ---
 
 A library plugin that enables other plugins to work properly.
@@ -10,9 +9,9 @@ A library plugin that enables other plugins to work properly.
 
 ProtocolLib is a technical plugin that allows other plugins to communicate with your Minecraft client. You won't interact with it directly, but it makes many features possible.
 
-<Info>
-  This is a background plugin - no commands or direct interaction needed.
-</Info>
+:::note
+This is a background plugin - no commands or direct interaction needed.
+:::
 
 ### What It Does
 

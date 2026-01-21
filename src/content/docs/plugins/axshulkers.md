@@ -1,7 +1,6 @@
 ---
-title: "AxShulkers"
-description: "Enhanced shulker box functionality"
-icon: "box"
+title: AxShulkers
+description: Enhanced shulker box functionality
 ---
 
 Enhanced shulker box functionality allowing you to view and interact with shulker boxes without placing them.
@@ -10,9 +9,9 @@ Enhanced shulker box functionality allowing you to view and interact with shulke
 
 Right-click a shulker box in your inventory while sneaking to open it directly without placing it in the world.
 
-<Tip>
-  **Sneak + Right-click** to open shulker boxes directly from your inventory!
-</Tip>
+:::tip
+**Sneak + Right-click** to open shulker boxes directly from your inventory!
+:::
 
 ### Tips
 

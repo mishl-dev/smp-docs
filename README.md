@@ -1,10 +1,30 @@
 # INFINITY SMP - Plugin Documentation
 
-Plugin documentation for INFINITY SMP, built with [Mintlify](https://mintlify.com).
+Plugin documentation for INFINITY SMP, built with [Astro Starlight](https://starlight.astro.build).
 
 **Server:** mc.mishl.dev  
 **Version:** 1.21.1 (Java Edition)  
 **Type:** Survival
+
+## Development
+
+```bash
+bun install
+bun run dev
+```
+
+## Build
+
+```bash
+bun run build
+```
+
+## Deploy to Cloudflare Pages
+
+1. Connect your GitHub repo to Cloudflare Pages
+2. Set build command: `bun run build`
+3. Set output directory: `dist`
+4. Deploy!
 
 ## Plugins Documented
 
@@ -20,19 +40,3 @@ Plugin documentation for INFINITY SMP, built with [Mintlify](https://mintlify.co
 - **OnePlayerSleep** - Single player sleep
 - **ProtocolLib** - Plugin library
 - **SkinsRestorer** - Custom skin support
-
-## Development
-
-Install dependencies:
-```bash
-bun install
-```
-
-Run the development server:
-```bash
-bun run dev
-```
-
-## License
-
-MIT

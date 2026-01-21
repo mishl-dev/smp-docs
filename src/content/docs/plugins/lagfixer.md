@@ -1,7 +1,6 @@
 ---
-title: "LagFixer"
-description: "Server optimization for smooth gameplay"
-icon: "bolt"
+title: LagFixer
+description: Server optimization for smooth gameplay
 ---
 
 Optimizes server performance to reduce lag and improve gameplay.
@@ -10,9 +9,9 @@ Optimizes server performance to reduce lag and improve gameplay.
 
 This plugin works behind the scenes to optimize entity behavior, reduce unnecessary processing, and keep the server running smoothly.
 
-<Info>
-  LagFixer works automatically - you don't need to do anything!
-</Info>
+:::note
+LagFixer works automatically - you don't need to do anything!
+:::
 
 ### Optimizations
 

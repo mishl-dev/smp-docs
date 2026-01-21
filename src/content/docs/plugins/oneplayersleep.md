@@ -1,7 +1,6 @@
 ---
-title: "OnePlayerSleep"
-description: "Skip the night when one player sleeps"
-icon: "bed"
+title: OnePlayerSleep
+description: Skip the night when one player sleeps
 ---
 
 Allows the night to be skipped when just one player sleeps.
@@ -10,9 +9,9 @@ Allows the night to be skipped when just one player sleeps.
 
 You no longer need all players to sleep to skip the night. When one player gets in bed, the night passes for everyone.
 
-<Tip>
-  Just one player needs to sleep - perfect for servers with different timezones!
-</Tip>
+:::tip
+Just one player needs to sleep - perfect for servers with different timezones!
+:::
 
 ### How It Works
 

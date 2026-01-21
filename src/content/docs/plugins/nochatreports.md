@@ -1,7 +1,6 @@
 ---
-title: "NoChatReports"
-description: "Privacy protection for chat messages"
-icon: "lock"
+title: NoChatReports
+description: Privacy protection for chat messages
 ---
 
 Disables Mojang's chat reporting system on the server.
@@ -10,9 +9,9 @@ Disables Mojang's chat reporting system on the server.
 
 This plugin prevents chat messages from being reported to Mojang, keeping moderation within our server community.
 
-<Info>
-  Your chat messages stay within our server - they are not sent to Mojang.
-</Info>
+:::note
+Your chat messages stay within our server - they are not sent to Mojang.
+:::
 
 ### How It Works
 
@@ -21,6 +20,6 @@ This plugin prevents chat messages from being reported to Mojang, keeping modera
 - Messages are not reportable to Mojang
 - Our community, our rules
 
-<Warning>
-  You still need to follow server rules! Staff moderation is active.
-</Warning>
+:::caution
+You still need to follow server rules! Staff moderation is active.
+:::

@@ -1,7 +1,6 @@
 ---
-title: "CoreProtect"
-description: "Block logging and rollback protection"
-icon: "shield"
+title: CoreProtect
+description: Block logging and rollback protection
 ---
 
 Block logging and rollback protection. While primarily an admin tool, it helps protect your builds and track changes.
@@ -10,9 +9,9 @@ Block logging and rollback protection. While primarily an admin tool, it helps p
 
 CoreProtect logs all block changes, chest interactions, and player actions. This means if something happens to your build, staff can investigate and restore it.
 
-<Info>
-  All block changes, container transactions, and player actions are logged automatically.
-</Info>
+:::note
+All block changes, container transactions, and player actions are logged automatically.
+:::
 
 ### What's Protected
 
@@ -28,6 +27,6 @@ If something happens to your build:
 2. Contact staff with the location and approximate time
 3. Staff can investigate and rollback griefing if needed
 
-<Note>
-  Contact staff if you need help with rollbacks. They can restore damaged builds!
-</Note>
+:::tip
+Contact staff if you need help with rollbacks. They can restore damaged builds!
+:::

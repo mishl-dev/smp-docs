@@ -1,7 +1,6 @@
 ---
-title: "InstantRestock"
-description: "Automatic restocking for shop chests"
-icon: "rotate"
+title: InstantRestock
+description: Automatic restocking for shop chests
 ---
 
 Automatically restocks shop chests for a smoother trading experience.
@@ -10,9 +9,9 @@ Automatically restocks shop chests for a smoother trading experience.
 
 When you trade with villagers or shop chests, items automatically restock if available, making trading more convenient and efficient.
 
-<Tip>
-  Trades restock instantly when items are available - no waiting required!
-</Tip>
+:::tip
+Trades restock instantly when items are available - no waiting required!
+:::
 
 ### Benefits
 
