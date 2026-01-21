@@ -40,37 +40,12 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Play Now",
-          "href": "https://mc.mishl.dev",
-          "icon": "gamepad"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/infinity.png",
     "dark": "/infinity.png"
   },
-  "navbar": {
-    "links": [
-      {
-        "label": "Discord",
-        "href": "https://discord.gg/infinitysmp"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Play Now",
-      "href": "https://mc.mishl.dev"
-    }
-  },
-  "footer": {
-    "socials": {
-      "discord": "https://discord.gg/infinitysmp"
-    }
-  }
+  "navbar": {},
+  "footer": {}
 }
