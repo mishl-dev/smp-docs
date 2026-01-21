@@ -38,5 +38,6 @@ bun run build
 - **LagFixer** - Server performance optimization
 - **NoChatReports** - Chat privacy protection
 - **OnePlayerSleep** - Single player sleep
+- **PetProtect** - Protect tamed mobs from PvP
 - **ProtocolLib** - Plugin library
 - **SkinsRestorer** - Custom skin support

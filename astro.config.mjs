@@ -35,6 +35,7 @@ export default defineConfig({
 						{ label: 'LagFixer', slug: 'plugins/lagfixer' },
 						{ label: 'NoChatReports', slug: 'plugins/nochatreports' },
 						{ label: 'OnePlayerSleep', slug: 'plugins/oneplayersleep' },
+						{ label: 'PetProtect', slug: 'plugins/petprotect' },
 						{ label: 'ProtocolLib', slug: 'plugins/protocollib' },
 						{ label: 'SkinsRestorer', slug: 'plugins/skinsrestorer' },
 					],
