@@ -9,10 +9,6 @@ Allows the night to be skipped when just one player sleeps.
 
 You no longer need all players to sleep to skip the night. When one player gets in bed, the night passes for everyone.
 
-:::tip
-Just one player needs to sleep - perfect for servers with different timezones!
-:::
-
 ### How It Works
 
 1. One player gets in bed
@@ -22,6 +18,5 @@ Just one player needs to sleep - perfect for servers with different timezones!
 
 ### Benefits
 
-- **Timezone friendly** - Great for international servers
 - **No coordination needed** - No waiting for everyone to sleep
 - **Quick nights** - Skip phantom spawns and hostile mobs
