@@ -9,7 +9,7 @@ Proximity-based voice chat that allows players to talk to each other when nearby
 
 Select the appropriate version for your mod loader:
 
-### Minecraft 1.21.11 (Latest)
+### Minecraft 1.21.11 (Modrinth)
 - **[Fabric Part](https://cdn.modrinth.com/data/9eGKb6K1/versions/1OVXKX2W/voicechat-fabric-1.21.11-2.6.11.jar)**
 - **[Forge Part](https://cdn.modrinth.com/data/9eGKb6K1/versions/y0UwvvY4/voicechat-forge-1.21.11-2.6.11.jar)**
 - **[NeoForge Part](https://cdn.modrinth.com/data/9eGKb6K1/versions/OqZQ7Nrz/voicechat-neoforge-1.21.11-2.6.11.jar)**
