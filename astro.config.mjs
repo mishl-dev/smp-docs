@@ -21,35 +21,15 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Core Plugins',
+					label: 'Player Guide',
 					items: [
-						{ label: 'HuskHomes', slug: 'plugins/huskhomes' },
-					],
-				},
-				{
-					label: 'Teams',
-					items: [
-						{ label: 'Ultimate Teams', slug: 'plugins/ultimateteams' },
-					],
-				},
-				{
-					label: 'Voice Chat',
-					items: [
-						{ label: 'Simple Voice Chat', slug: 'plugins/simplevoicechat' },
-					],
-				},
-				{
-					label: 'Bukkit Plugins',
-					items: [
-						{ label: 'AxShulkers', slug: 'plugins/axshulkers' },
-						{ label: 'CoreProtect', slug: 'plugins/coreprotect' },
-						{ label: 'InstantRestock', slug: 'plugins/instantrestock' },
-						{ label: 'LagFixer', slug: 'plugins/lagfixer' },
-						{ label: 'NoChatReports', slug: 'plugins/nochatreports' },
-						{ label: 'OnePlayerSleep', slug: 'plugins/oneplayersleep' },
-						{ label: 'PetProtect', slug: 'plugins/petprotect' },
-						{ label: 'ProtocolLib', slug: 'plugins/protocollib' },
-						{ label: 'SkinsRestorer', slug: 'plugins/skinsrestorer' },
+						{ label: 'Account Linking', slug: 'plugins/discordsrv' },
+						{ label: 'Homes & Teleportation', slug: 'plugins/huskhomes' },
+						{ label: 'Teams (BetterTeams)', slug: 'plugins/betterteams' },
+						{ label: 'Voice Chat', slug: 'plugins/simplevoicechat' },
+						{ label: 'Skins', slug: 'plugins/skinsrestorer' },
+						{ label: 'Shulker Boxes', slug: 'plugins/axshulkers' },
+						{ label: 'One Player Sleep', slug: 'plugins/oneplayersleep' },
 					],
 				},
 			],

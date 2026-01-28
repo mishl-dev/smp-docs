@@ -1,41 +1,35 @@
 ---
-title: HuskHomes
-description: A comprehensive home and warping system
+title: Homes & Teleportation (HuskHomes)
+description: A guide to setting homes, teleporting to friends, and visiting public warps
 ---
 
-A comprehensive home and warping system that allows you to set multiple homes and teleport between them.
+HuskHomes is the primary way to navigate the world. It allows you to save locations and teleport instantly.
 
-## Setting Homes
+## Your Homes
 
-Use `/sethome [name]` to set a home at your current location. You can have multiple homes with different names.
+You can save multiple locations to return to later. Each home requires a unique name.
 
-| Command | Description |
-|---------|-------------|
-| `/sethome <name>` | Set a home at your current location |
-| `/home <name>` | Teleport to one of your homes |
-| `/homes` | List all your homes |
-| `/delhome <name>` | Delete a home |
+- **Set a home:** Stand at the location and use `/sethome <name>`.
+- **Teleport back:** Use `/home <name>` to return to any of your saved spots.
+- **List homes:** Type `/homes` to see all your saved locations.
+- **Remove a home:** Use `/delhome <name>` if you no longer need it.
 
----
+:::tip
+Always set a home at your base before heading out on an adventure!
+:::
 
-## Public Warps
+## Teleporting to Friends
 
-Access public warps set by admins or visit other players' public homes.
+If you want to meet up with another player, you can send a teleport request.
 
-| Command | Description |
-|---------|-------------|
-| `/warp <name>` | Teleport to a public warp |
-| `/warps` | List all available warps |
+1. **Ask to go to them:** Use `/tpa <player>`. They must accept for you to teleport.
+2. **Bring them to you:** Use `/tpahere <player>` to invite someone to your current location.
+3. **Accepting/Denying:** If someone sends you a request, use `/tpaccept` or `/tpdeny`.
 
----
+## Public Locations
 
-## Teleport Requests
+Admins often set up public warps for important landmarks like Spawn or the Shopping District.
 
-Request to teleport to other players or invite them to your location.
+- **Visit a warp:** Use `/warp <name>`.
+- **See all warps:** Type `/warps` to see a list of every public destination.
 
-| Command | Description |
-|---------|-------------|
-| `/tpa <player>` | Request to teleport to a player |
-| `/tpahere <player>` | Request a player to teleport to you |
-| `/tpaccept` | Accept a teleport request |
-| `/tpdeny` | Deny a teleport request |
