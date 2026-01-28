@@ -12,7 +12,7 @@ You can download Simple Voice Chat from the following official pages:
 - **[Modrinth](https://modrinth.com/plugin/simple-voice-chat/versions?g=1.21.11&l=fabric&l=neoforge&l=forge&l=quilt)** (Recommended)
 - **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/all?page=1&pageSize=20&version=1.21.11)**
 
-Make sure to select the version that matches your Minecraft version and mod loader (Fabric, Forge, or NeoForge).
+Make sure to select the version that matches your Minecraft 1.21.11 mod loader (Fabric, Forge, or NeoForge).
 
 ---
 
