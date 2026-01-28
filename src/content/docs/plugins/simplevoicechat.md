@@ -7,12 +7,12 @@ Proximity-based voice chat that allows players to talk to each other when nearby
 
 ## Downloads
 
-Select the appropriate version for your mod loader:
+You can download Simple Voice Chat from the following official pages:
 
-### Minecraft 1.21.11 (Modrinth)
-- **[Fabric Part](https://cdn.modrinth.com/data/9eGKb6K1/versions/1OVXKX2W/voicechat-fabric-1.21.11-2.6.11.jar)**
-- **[Forge Part](https://cdn.modrinth.com/data/9eGKb6K1/versions/y0UwvvY4/voicechat-forge-1.21.11-2.6.11.jar)**
-- **[NeoForge Part](https://cdn.modrinth.com/data/9eGKb6K1/versions/OqZQ7Nrz/voicechat-neoforge-1.21.11-2.6.11.jar)**
+- **[Modrinth](https://modrinth.com/plugin/simple-voice-chat/versions?g=1.21.11&l=fabric&l=neoforge&l=forge&l=quilt)** (Recommended)
+- **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/all?page=1&pageSize=20&version=1.21.11)**
+
+Make sure to select the version that matches your Minecraft version and mod loader (Fabric, Forge, or NeoForge).
 
 ---
 
